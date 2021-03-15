@@ -1,5 +1,5 @@
 # imyelmo/stream
-Docker Ubuntu based container that provides a shell for basic networking tests and a shell script, placed in "/tmp/stream.sh",  to receive a multicast video stream  based on [vlc](https://www.videolan.org/vlc/).
+Docker Ubuntu based container that provides a shell for basic networking tests and a shell script, placed in "/tmp/stream.sh",  to send a multicast video stream  based on [vlc](https://www.videolan.org/vlc/).
 
 Further details can be obtained by inspecting the Dockerfile and the stream.sh files in the repository.
 
